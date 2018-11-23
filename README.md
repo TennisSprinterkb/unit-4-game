@@ -1,2 +1,2 @@
 # unit-4-game
-jQuery
+jQuery game 4 choosing which game to create
